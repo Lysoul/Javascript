@@ -15,7 +15,6 @@ var city = person.address.city;
 person.age = 24; /* Create Properties to Object. */
 
 
-
 // ------------------------------------------------ //
 
 var obj = {};
@@ -27,3 +26,5 @@ Object.defineProperties(obj, 'attrib', {
 
 delete obj.attrib; /* Cannot delete because configurable false */
 
+
+// ------------------------------------------------ //
