@@ -12,3 +12,5 @@ function Person(name,surname) {
 var johnSmith = new Person("John","Smith");
 
 var jakkavatDeemak = new Person("Jakkavat", "Deemak");
+
+//Test
