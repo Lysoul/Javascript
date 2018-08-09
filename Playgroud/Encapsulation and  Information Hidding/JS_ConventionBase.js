@@ -8,4 +8,5 @@ TheatreSeats.prototype.placePerson = function (person) {
 
 var theatreSeats = new TheatreSeats();
 
-theatreSeats.placePerson({name : "Jakkavat",surname:"Deemak"});
+theatreSeats.placePerson({ name: "Jakkavat", surname: "Deemak" });
+console.log(theatreSeats);

@@ -13,4 +13,5 @@ var johnSmith = new Person("John","Smith");
 
 var jakkavatDeemak = new Person("Jakkavat", "Deemak");
 
-//Test
+console.log(johnSmith);
+console.log(jakkavatDeemak);

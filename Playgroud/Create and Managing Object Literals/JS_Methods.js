@@ -11,3 +11,6 @@ var person = {
         return this.name + " " + this.surname;
     }
 };
+
+
+console.log(person.fullName);

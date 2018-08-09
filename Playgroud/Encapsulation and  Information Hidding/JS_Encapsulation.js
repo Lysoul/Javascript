@@ -8,5 +8,5 @@ function greets(person) {
     }
 }
 
-displayGreeting = greets({ name: "Jakkavat", surname: "Smith" });
+displayGreeting = greets({ name: "Jakkavat", surname: "Deemak" });
 displayGreeting();
