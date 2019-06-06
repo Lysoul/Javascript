@@ -1,4 +1,4 @@
-function TheatreSeats() {
+    function TheatreSeats() {
     var seats = []; //Like a decare variable.
 
     //Set
